@@ -1,0 +1,18 @@
+.navbar-light .navbar-brand {
+    color: #eeeeee;
+    font-family: 'Project Sans';
+    font-weight: 700;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #eeeeee;
+    font-family: 'Project Sans';
+    font-weight: 400;
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #eeeeee;
+    font-family: 'Project Sans';
+    font-weight: 400;
+}
+
