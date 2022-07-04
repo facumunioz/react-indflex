@@ -1,0 +1,40 @@
+h1{
+    color: #484c54;
+    font-family: 'Project Sans';
+    font-weight: 700;
+    grid-column: 1/2;
+}
+h2{
+    color: #484c54;
+    font-family: 'Project Sans';
+    font-weight: 700;
+    grid-column: 1/2;
+}
+p{
+    color: #484c54;
+    font-family: 'Project Sans';
+    font-weight: 400;
+    grid-column: 1/4;
+}
+.titulo_medidas {
+    color: #484c54;
+    font-family: 'Project Sans';
+    font-weight: 700;
+    font-size: 20px;
+    margin: 0px;
+}
+
+.grid_medidas02 {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: 300px 300px 300px 300px;
+   
+}
+
+.flex_medidas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

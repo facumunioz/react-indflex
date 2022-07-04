@@ -1,3 +1,9 @@
+nav {
+    background-color: #484c54;
+}
+#colorlogo {
+    color: #eeeeee;
+}
 .navbar-light .navbar-brand {
     color: #eeeeee;
     font-family: 'Project Sans';
